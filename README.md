@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+1. My name is Yejin Song.
+2. I'm a student at CNU.
+3. welcome :)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyesong)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jinyesong/jinyesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
