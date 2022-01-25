@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-* My name is Yejin Song.
-* I'm a student at CNU.
-* welcome :)
+* 😄 My name is Yejin Song.
+* 🌱 I'm a student at CNU.
+* 📫 How to reach me: songyejin2000@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyesong)](https://github.com/anuraghazra/github-readme-stats)
 <!--
