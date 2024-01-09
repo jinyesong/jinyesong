@@ -1,5 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&text=Jinyesong&color=30:F6CED8,70:a82da8)
 
+
+**Hi there** 👋
 * 😄 My name is Yejin Song.
 * 🌱 I'm a student at CNU.
 * 📫 How to reach me: songyejin2000@gmail.com
