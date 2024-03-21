@@ -24,7 +24,7 @@
 <h3 align="center">📧Email</h3>
 <p align="center">songyejin2000@gmail.com</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyesong&show_icons=true&theme=buefy)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyesong&show_icons=true&theme=buefy)-->
 
 <!--
 **jinyesong/jinyesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
